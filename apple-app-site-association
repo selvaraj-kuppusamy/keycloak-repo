@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "T27G47732A.com.example.focus"],
+             "components": [
+               {
+                  "/": "/auth/*",
+                  "comment": "Matches any URL with a path that starts with /auth/."
+               }
+             ]
+           }
+       ]
+   }
+}
